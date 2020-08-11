@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MadriD2ev/MadriD2ev/issues/3#issue-676520273">
-</p>
-
-
 
 ### Hi there 👋
 
