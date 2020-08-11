@@ -2,9 +2,9 @@
   <img src="bannerMadrid2.jpg">
 </p>
 
-### 👋 Hello Moon !  <img src="logoMadrid.gif" width="48px">
+### 👋 Hello Moon !  <img src="logoMadrid.gif" width="28px">
 
-Developer :shipit: | Romantic red bone :revolving_hearts:| Curious :eyes: :headphones:| Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes:
+Developer :shipit: | Romantic red bone :revolving_hearts: | Curious :eyes: :headphones: | Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes:
 
 <!--
 **MadriD2ev/MadriD2ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
