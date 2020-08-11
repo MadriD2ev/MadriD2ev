@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bannerMadrid2.jpg">
+</p>
 
 ### Hi there 👋
 
