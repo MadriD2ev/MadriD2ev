@@ -16,7 +16,7 @@ I'm computer systems engineer who contributed to the development of functionalit
 const Madrid = {
   pronouns: "she" | "her",
   code: [C#, JavaScript, JAVA, Scala],
-  tools: [Jquery, jQWidgets, Bootstrap, Visual Studio, ASP.NET, MySQL, Oracle, SQL Server, Play, GitHub, SourceTree, SourceSafe, IIS, VISIO, DIA, AutoCAD,                               JasperReport(iReport), Eclipse, NetBeans, AJAX, HTML/CSS],
+  tools: [Jquery, jQWidgets, Bootstrap, Visual Studio, ASP.NET, MySQL, Oracle, SQL Server, Play, GitHub, SourceTree, SourceSafe, IIS, VISIO, DIA, AutoCAD, JasperReport(iReport), Eclipse, NetBeans, AJAX, HTML/CSS],
   architecture: ["MVC"],
   techCommunities: {
                         competitor: "Un café con ingenieras",
@@ -26,7 +26,7 @@ const Madrid = {
               If it receives 0, it returns 1
               If it receives 1, it returns 0
 
-              BUT without using IF, or SWITCH, or ternaries, or logical operators, or bitwise."
+              BUT without using IF, or SWITCH, or ternaries, or logical operators, or bitwise. "
 }
 ```
 
