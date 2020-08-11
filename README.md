@@ -19,8 +19,8 @@ const Madrid = {
   tools: [Jquery, jQWidgets, Bootstrap, Visual Studio, ASP.NET, MySQL, Oracle, SQL Server, Play, GitHub, SourceTree, SourceSafe, IIS, VISIO, DIA, AutoCAD, JasperReport(iReport), Eclipse, NetBeans, AJAX, HTML/CSS],
   architecture: ["MVC"],
   techCommunities: {
-                        competitor: "Un café con ingenieras",
-                        competitor: "Datos abiertos y Hacking Cívico"
+                        participant: "Un café con ingenieras",
+                        participant: "Datos abiertos y Hacking Cívico"
                       },
  challenge: "Create a method called flip that:
               If it receives 0, it returns 1
