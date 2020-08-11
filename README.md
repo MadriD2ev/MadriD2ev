@@ -12,6 +12,23 @@ I'm computer systems engineer who contributed to the development of functionalit
 [![Twitter Badge](https://img.shields.io/badge/-@M__Lobita-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M_Lobita)](https://twitter.com/M_Lobita)
 [![Gmail Badge](https://img.shields.io/badge/-MGutierrezH-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isc.mgutierrezh@gmail.com)](mailto:isc.mgutierrezh@gmail.com)
 
+```javascript
+const Madrid = {
+  pronouns: "she" | "her",
+  code: [C#, JavaScript, JAVA, Scala],
+  tools: [Jquery, jQWidgets, Bootstrap, Visual Studio, ASP.NET, MySQL, Oracle, SQL Server, Play, GitHub, SourceTree, SourceSafe, IIS, VISIO, DIA, AutoCAD,                               JasperReport(iReport), Eclipse, NetBeans, AJAX, HTML/CSS],
+  architecture: ["MVC"],
+  techCommunities: {
+                        competitor: "Un café con ingenieras",
+                        competitor: "Datos abiertos y Hacking Cívico"
+                      },
+ challenge: "Create a method called flip that:
+              If it receives 0, it returns 1
+              If it receives 1, it returns 0
+
+              BUT without using IF, or SWITCH, or ternaries, or logical operators, or bitwise."
+}
+```
 
 <!--
 **MadriD2ev/MadriD2ev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
