@@ -4,9 +4,9 @@
 
 # 👋 Hello Moon !  <img src="https://user-images.githubusercontent.com/68882204/89865480-6f1b3f00-db73-11ea-96a3-3be9411477db.gif" width="50px">
 
-### Developer :shipit: | Romantic red bone :revolving_hearts: | Curious :eyes: :headphones: | Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes:
+### Web Developer :shipit: | Romantic red bone :revolving_hearts: | Curious :eyes: :headphones: | Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes:
 
-I'm computer systems engineer who contributed to the development of functionalities of different Web platforms, optimistic about the challenges of new projects, collaborating by contributing ideas and solutions, I believe a lot in teamwork, in the sharing of acquired knowledge as well as its experiences . I try to adapt quickly and be a manager of continuous improvement.
+Ingeniera en Sistemas Computacionales que contribuyó en el desarrollo de funcionalidades de diferentes plataformas Web, optimista ante los retos de nuevos proyectos, colaborando aportando ideas y soluciones, creo mucho en el trabajo en equipo, en el compartir del conocimiento adquirido así como las experiencias del mismo. Procuro adaptarme rápido y ser un gestor de la mejora continúa.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MGutierrezH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgutierrezh)](https://www.linkedin.com/in/mgutierrezh)
 [![Twitter Badge](https://img.shields.io/badge/-@M__Lobita-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M_Lobita)](https://twitter.com/M_Lobita)
