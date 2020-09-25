@@ -4,7 +4,7 @@
 
 # 👋 Hello Moon !  <img src="https://user-images.githubusercontent.com/68882204/89865480-6f1b3f00-db73-11ea-96a3-3be9411477db.gif" width="50px">
 
-#### Developer Web :shipit:| Full Stack 👩🏻‍🔧| Curious :eyes: :headphones:| Ciberseguridad 📇| Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes:| #womenInTech 👩🏻‍🎓
+#### Developer Web :shipit: Full Stack 👩🏻‍🔧   Curious :eyes: :headphones:  Ciberseguridad 📇   Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes: #womenInTech 👩🏻‍🎓
 
 Ingeniera en Sistemas Computacionales que contribuyó en el desarrollo de funcionalidades de diferentes plataformas Web, optimista ante los retos de nuevos proyectos, colaborando aportando ideas y soluciones, creo mucho en el trabajo en equipo, en el compartir del conocimiento adquirido así como las experiencias del mismo. Procuro adaptarme rápido y ser un gestor de la mejora continúa.
 
