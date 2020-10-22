@@ -6,7 +6,7 @@
 
 #### Developer Web :shipit: Full Stack 👩🏻‍🔧   Curious :eyes: :headphones:  Ciberseguridad 📇   Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes: #womenInTech 👩🏻‍🎓
 
-Ingeniera en Sistemas Computacionales que contribuyó en el desarrollo de funcionalidades de diferentes plataformas Web, optimista ante los retos de nuevos proyectos, colaborando aportando ideas y soluciones, creo mucho en el trabajo en equipo, en el compartir del conocimiento adquirido así como las experiencias del mismo. Procuro adaptarme rápido y ser un gestor de la mejora continúa.
+Ingeniera en sistemas computacionales con algunos años de experiencia que contribuyó en la migración de datos y en el desarrollo de diferentes módulos para plataformas Web, también estuve en algunas compañías del sector Oil & Gas, brindando atención offshore a los usuarios.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MGutierrezH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgutierrezh)](https://www.linkedin.com/in/mgutierrezh)
 [![Twitter Badge](https://img.shields.io/badge/-@M__Lobita-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M_Lobita)](https://twitter.com/M_Lobita)
