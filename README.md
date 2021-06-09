@@ -6,6 +6,8 @@
 
 #### Developer Web :shipit: Full Stack 👩🏻‍🔧   Curious :eyes: :headphones:  Ciberseguridad 📇   Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes: #womenInTech 👩🏻‍🎓
 
+#### :wrench::hammer: **_Working in progress... Data Science_** :woman_factory_worker:
+
 Ingeniera en sistemas computacionales con algunos años de experiencia que contribuyó en la migración de datos y en el desarrollo de diferentes módulos para plataformas Web, también estuve en algunas compañías del sector Oil & Gas, brindando atención offshore a los usuarios.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MGutierrezH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgutierrezh)](https://www.linkedin.com/in/mgutierrezh)
