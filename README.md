@@ -8,7 +8,7 @@
 
 #### :wrench::hammer: **_Working in progress... Data Science_** :woman_factory_worker:
 
-Ingeniera en sistemas computacionales con algunos años de experiencia que contribuyó en la migración de datos y en el desarrollo de diferentes módulos para plataformas Web, también estuve en algunas compañías del sector Oil & Gas, brindando atención offshore a los usuarios.
+A computer systems engineer with some years of experience who contributed to data migration and the development of different modules for Web platforms, I was also in some companies in the Oil & Gas sector, providing offshore service to users.
 
 [![Linkedin Badge](https://img.shields.io/badge/-MGutierrezH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgutierrezh)](https://www.linkedin.com/in/mgutierrezh)
 [![Twitter Badge](https://img.shields.io/badge/-@M__Lobita-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/M_Lobita)](https://twitter.com/M_Lobita)
