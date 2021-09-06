@@ -18,7 +18,12 @@ Ingeniera en sistemas computacionales con algunos años de experiencia que contr
 ```javascript
 const Madrid = {
   code: [C#, JavaScript, JAVA, Scala, Typescript],
-  tools: [Angular, ReactJS, REST, MongoDB, Jquery, jQWidgets, Bootstrap, Visual Studio, ASP.NET, MySQL, Oracle, SQL Server, Play, GitHub, SourceTree, SourceSafe, IIS, VISIO, DIA, AutoCAD, JasperReport(iReport), Eclipse, NetBeans, AJAX, HTML/CSS],
+  tools: [
+            Angular, ReactJS, REST, MongoDB, Jquery, jQWidgets, Bootstrap, 
+            Visual Studio, ASP.NET, MySQL, Oracle, SQL Server, Play, GitHub, SourceTree, 
+            SourceSafe, IIS, VISIO, DIA, AutoCAD, JasperReport(iReport), Eclipse, 
+            NetBeans, AJAX, HTML/CSS
+          ],
   architecture: ["MVC"],
   techCommunities: {
                         participant: "Un café con ingenieras",
