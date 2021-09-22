@@ -6,7 +6,7 @@
 
 #### Developer Web :shipit: Full Stack 👩🏻‍🔧   Curious :eyes: :headphones:  Ciberseguridad 📇   Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes: #womenInTech 👩🏻‍🎓
 
-#### :wrench::hammer: **_Working in progress... Data Science_** :woman_factory_worker:
+#### :wrench::hammer: **_Working in progress... Data Scientist_** :woman_factory_worker:
 
 A computer systems engineer with some years of experience who contributed to data migration and the development of different modules for Web platforms, I was also in some companies in the Oil & Gas sector, providing offshore service to users.
 
