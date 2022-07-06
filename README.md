@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/68882204/89865043-9ae9f500-db72-11ea-8706-4c3af4f3af95.jpg">
 </p>
 
-# 👋 Hello Moon !  <img src="https://user-images.githubusercontent.com/68882204/89865480-6f1b3f00-db73-11ea-96a3-3be9411477db.gif" width="20px">
+# 👋 Hello Moon !  <img src="https://user-images.githubusercontent.com/68882204/89865480-6f1b3f00-db73-11ea-96a3-3be9411477db.gif" width="05px">
 
 #### Developer Web :shipit: Full Stack 👩🏻‍🔧   Curious :eyes: :headphones:  Ciberseguridad 📇   Angry (sometimes) but Chida :poop: :stuck_out_tongue_closed_eyes: #womenInTech 👩🏻‍🎓
 
